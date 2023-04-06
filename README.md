@@ -20,3 +20,4 @@
 
 
 
+![Metrics](https://github.com/isaacKenyon/isaacKenyon/blob/main/github-metrics.svg)
