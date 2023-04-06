@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicholas Chmielewski</h1>
+<h1 align="center">Howdy 👋, I'm Nicholas Chmielewski</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nchmielewski" alt="nchmielewski" /> </p>
 
 
