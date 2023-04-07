@@ -8,9 +8,9 @@
 
 - 📜 BS Computer Science and Engineering - Concentration in Systems and Networks 
 
-- ⚡ I code C++ in Industry
+- ⚡ Industry C++
 
-- 🐍 I code Python in my free time
+- 🐍 Code Python in my free time
 
 - 📫 Reach me at **[nicholas.chmielewski.j@gmail.com](mailto://nicholas.chmielewski.j@gmail.com)**
 
