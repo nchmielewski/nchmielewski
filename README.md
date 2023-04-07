@@ -5,7 +5,7 @@
 - 🌱 Software Engineer
 
 - ⚡ Industry C++ and TypeScript
-- 
+
 - 🐺 UConn Alum
 
 - 📜 BS Computer Science and Engineering - Concentration in Systems and Networks 
