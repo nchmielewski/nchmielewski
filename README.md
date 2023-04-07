@@ -8,7 +8,7 @@
 
 - 📜 BS Computer Science and Engineering - Concentration in Systems and Networks 
 
-- ⚡ Industry C++
+- ⚡ Industry C++ and TypeScript
 
 - 🐍 Code Python in my free time
 
