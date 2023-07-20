@@ -4,7 +4,7 @@
 
 - 🌱 Software Engineer
 
-- ⚡ Industry C++ and TypeScript
+- ⚡ Industry C++
 
 - 🐺 UConn Alum
 
